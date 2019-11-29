@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\TeamDevelopment\TeamDevelopment\bin\Debug\TeamDevelopment.exe.config
+C:\Users\Пользователь\source\repos\TeamDevelopment\TeamDevelopment\bin\Debug\TeamDevelopment.exe
+C:\Users\Пользователь\source\repos\TeamDevelopment\TeamDevelopment\bin\Debug\TeamDevelopment.pdb
+C:\Users\Пользователь\source\repos\TeamDevelopment\TeamDevelopment\obj\Debug\TeamDevelopment.Form1.resources
+C:\Users\Пользователь\source\repos\TeamDevelopment\TeamDevelopment\obj\Debug\TeamDevelopment.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\TeamDevelopment\TeamDevelopment\obj\Debug\TeamDevelopment.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\TeamDevelopment\TeamDevelopment\obj\Debug\TeamDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\TeamDevelopment\TeamDevelopment\obj\Debug\TeamDevelopment.exe
+C:\Users\Пользователь\source\repos\TeamDevelopment\TeamDevelopment\obj\Debug\TeamDevelopment.pdb
+C:\Users\Пользователь\source\repos\TeamDevelopment\TeamDevelopment\obj\Debug\TeamDevelopment.csprojAssemblyReference.cache
