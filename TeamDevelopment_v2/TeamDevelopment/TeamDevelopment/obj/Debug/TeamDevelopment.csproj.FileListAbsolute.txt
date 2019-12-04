@@ -27,4 +27,3 @@ C:\Users\Пользователь\Desktop\TeamDevelopment_v2\TeamDevelopment\Tea
 C:\Users\Пользователь\Desktop\TeamDevelopment_v2\TeamDevelopment\TeamDevelopment\obj\Debug\TeamDevelopment.csproj.CoreCompileInputs.cache
 C:\Users\Пользователь\Desktop\TeamDevelopment_v2\TeamDevelopment\TeamDevelopment\obj\Debug\TeamDevelopment.exe
 C:\Users\Пользователь\Desktop\TeamDevelopment_v2\TeamDevelopment\TeamDevelopment\obj\Debug\TeamDevelopment.pdb
-C:\Users\Пользователь\Desktop\TeamDevelopment_v2\TeamDevelopment\TeamDevelopment\obj\Debug\TeamDevelopment.csprojAssemblyReference.cache
