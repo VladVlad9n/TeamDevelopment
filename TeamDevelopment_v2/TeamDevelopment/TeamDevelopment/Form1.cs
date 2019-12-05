@@ -104,19 +104,7 @@ namespace TeamDevelopment
         private void timer1_Tick(object sender, EventArgs e)
         {
             seconds = seconds - 1;
-            if (seconds == -1)
-            {
-                minutes = minutes - 1;
-                seconds = 59;
-            }
-
-            if (minutes == -1)
-            {
-                hours = hours - 1;
-                minutes = 59;
-            }
-
-            if (hours == 0 && minutes == 0 && seconds == 0)
+            if (seconds == 0)
             {
                 timer1.Stop();
             }
